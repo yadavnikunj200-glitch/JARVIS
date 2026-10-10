@@ -5,8 +5,8 @@ A real-time voice AI that can hear, see, speak, and control your computer — on
 
 ---
 ## STEP Paste In Terminal 
-1."Py setup.py"
-2."Py main.py"
+1."Py setup.py".
+2."Py main.py".
 
 ## ✨ Overview
 
