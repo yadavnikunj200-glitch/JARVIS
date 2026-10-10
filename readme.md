@@ -4,6 +4,9 @@
 A real-time voice AI that can hear, see, speak, and control your computer — on any OS. Supports Windows, macOS, and Linux. Built on the Gemini Live API for native audio streaming, delivering zero subscriptions and total digital autonomy.
 
 ---
+## STEP Paste In Terminal 
+1."Py setup.py"
+2."Py main.py"
 
 ## ✨ Overview
 
